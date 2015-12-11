@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=condition\ engineNum\ cc\ cylinder
+comment0.target=Engine(int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getCondition()
+comment2.params=
+comment2.target=java.lang.String\ getEngineNum()
+comment3.params=
+comment3.target=int\ getCC()
+comment4.params=
+comment4.target=int\ getCylinder()
+comment5.params=num
+comment5.target=void\ setCondition(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
